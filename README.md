@@ -1,5 +1,4 @@
-aaaaaaaaaaaaaaaaa# Bone-Detection    
-a
+# Bone-Detection    
 
 
 
