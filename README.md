@@ -1,4 +1,4 @@
-سشسسششششششسسسشششششششش# Bone-Detection    
+# Bone-Detection    
 
 
 
